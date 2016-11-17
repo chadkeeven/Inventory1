@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="save_menu">Save</string>
+    <string name="delete_menu">Delete</string>
+    <string name="editor_insert_product_failed">Error product failed to be added</string>
+    <string name="editor_insert_product_successful">Product has been added</string>
+    <string name="error_with_deletion">Error with Deletion</string>
+    <string name="deletion_success">Deletion successful</string>
+    <string name="cancel">Cancel</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="discard">Discard</string>
+</resources>
